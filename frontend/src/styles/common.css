@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #f5f5f7;
+  color: #1d1d1f;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex: 1;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* 按钮样式 */
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* 表单样式 */
+input,
+select,
+textarea {
+  font-family: inherit;
+  font-size: 14px;
+  border: 1px solid #e5e5e7;
+  border-radius: 8px;
+  padding: 10px 12px;
+  background: #fff;
+  color: #1d1d1f;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  outline: none;
+  border-color: #0071e3;
+  box-shadow: 0 0 0 3px rgba(0, 113, 227, 0.1);
+}
+
+/* 加载和空状态 */
+.loading {
+  text-align: center;
+  padding: 40px;
+  color: #666;
+  font-size: 14px;
+}
+
+.no-results {
+  text-align: center;
+  padding: 40px;
+  color: #999;
+  font-size: 14px;
+}
+
+.error {
+  text-align: center;
+  padding: 40px;
+  color: #d32f2f;
+  font-size: 14px;
+}
+
+.error-message {
+  background: #ffebee;
+  color: #c62828;
+  padding: 12px 16px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  border-left: 4px solid #c62828;
+}
+
+/* 响应式 */
+@media (max-width: 768px) {
+  .container {
+    padding: 0 15px;
+  }
+
+  .search-input-group {
+    flex-direction: column;
+  }
+
+  .filter-group {
+    flex-direction: column;
+  }
+
+  .temples-grid {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  }
+
+  .features-grid {
+    grid-template-columns: 1fr;
+  }
+}

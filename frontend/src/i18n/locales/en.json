@@ -1,0 +1,133 @@
+{
+  "nav": {
+    "home": "Home",
+    "temples": "Temples",
+    "classics": "Classics",
+    "knowledge": "Knowledge",
+    "about": "About",
+    "login": "Login"
+  },
+  "common": {
+    "search": "Search",
+    "loading": "Loading...",
+    "noResults": "No results found",
+    "notFound": "Not found",
+    "reviews": "reviews",
+    "previous": "Previous",
+    "next": "Next",
+    "manage": "Manage",
+    "logout": "Logout"
+  },
+  "home": {
+    "title": "Discover Chinese Taoist Temples",
+    "subtitle": "Explore the Taoist culture that has been passed down for thousands of years",
+    "searchPlaceholder": "Search temple name or address...",
+    "allProvinces": "All Provinces",
+    "allSects": "All Sects",
+    "newest": "Newest",
+    "highestRated": "Highest Rated",
+    "mostPopular": "Most Popular",
+    "features": "Platform Features",
+    "feature1Title": "Complete Temple Information",
+    "feature1Desc": "Comprehensive information about temples across China, including addresses, contact details, and historical backgrounds",
+    "feature2Title": "Authentic User Reviews",
+    "feature2Desc": "Real reviews from actual visitors to help you understand the true situation of temples",
+    "feature3Title": "Rich Taoist Knowledge",
+    "feature3Desc": "Provide Taoist classics and knowledge articles to inherit and promote Taoist culture",
+    "feature4Title": "Convenient Search Experience",
+    "feature4Desc": "Support multi-condition search and filtering to quickly find temples of interest"
+  },
+  "temples": {
+    "title": "Temple List",
+    "searchPlaceholder": "Search temples...",
+    "allSects": "All Sects"
+  },
+  "temple": {
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "website": "Website",
+    "description": "Description",
+    "reviews": "Reviews",
+    "visitorName": "Visitor Name",
+    "rating": "Rating",
+    "stars": "stars",
+    "comment": "Comment",
+    "submitReview": "Submit Review",
+    "noReviews": "No reviews yet"
+  },
+  "classics": {
+    "title": "Taoist Classics",
+    "searchPlaceholder": "Search classics...",
+    "allDynasties": "All Dynasties",
+    "allCategories": "All Categories",
+    "description": "Description",
+    "excerpt": "Excerpt",
+    "readMore": "Read More",
+    "selectClassic": "Select a classic to view details"
+  },
+  "knowledge": {
+    "title": "Knowledge Base",
+    "searchPlaceholder": "Search articles...",
+    "allCategories": "All Categories",
+    "selectArticle": "Select an article to view details"
+  },
+  "about": {
+    "title": "About Us",
+    "aboutUs": "About Taoist Temple Directory",
+    "mission": "Our Mission",
+    "mission1Title": "Inherit Taoist Culture",
+    "mission1Desc": "Dedicated to inheriting and promoting Taoist culture, allowing more people to understand Taoist philosophy",
+    "mission2Title": "Provide Convenient Services",
+    "mission2Desc": "Provide a convenient platform for believers and culture enthusiasts to query and communicate about temples",
+    "mission3Title": "Promote Cultural Exchange",
+    "mission3Desc": "Promote communication and cooperation between temples in different regions for common development",
+    "support": "Support Us",
+    "supportDesc": "If you like our platform, welcome to support our work in the following ways",
+    "contact": "Contact Us",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address"
+  },
+  "login": {
+    "title": "Admin Login",
+    "username": "Username",
+    "password": "Password",
+    "login": "Login",
+    "loginFailed": "Login failed, please check your username and password",
+    "demoAccount": "Demo Account"
+  },
+  "admin": {
+    "dashboard": "Admin Dashboard",
+    "temples": "Temples",
+    "reviews": "Reviews",
+    "users": "Users",
+    "articles": "Articles",
+    "management": "Management",
+    "templeManagement": "Temple Management",
+    "manageTemples": "Add, edit, and delete temple information",
+    "reviewManagement": "Review Management",
+    "manageReviews": "View and manage user reviews",
+    "classicManagement": "Classic Management",
+    "manageClassics": "Manage Taoist classics content",
+    "articleManagement": "Article Management",
+    "manageArticles": "Manage knowledge base articles",
+    "userManagement": "User Management",
+    "manageUsers": "Manage system users and permissions",
+    "seoManagement": "SEO Management",
+    "manageSEO": "Manage page SEO information"
+  },
+  "footer": {
+    "about": "About Us",
+    "aboutDesc": "Taoist Temple Directory is a comprehensive platform dedicated to promoting and inheriting Taoist culture, gathering information about temples across China.",
+    "links": "Quick Links",
+    "contact": "Contact",
+    "email": "Email",
+    "phone": "Phone",
+    "support": "Support Us",
+    "supportDesc": "If you like our platform, welcome to support us",
+    "wechat": "WeChat Pay",
+    "alipay": "Alipay",
+    "copyright": "Taoist Temple Directory | Promote Taoist Culture | Inherit Chinese Civilization"
+  }
+}

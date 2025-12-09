@@ -1,0 +1,133 @@
+{
+  "nav": {
+    "home": "首页",
+    "temples": "道观",
+    "classics": "典籍",
+    "knowledge": "知识库",
+    "about": "关于我们",
+    "login": "登录"
+  },
+  "common": {
+    "search": "搜索",
+    "loading": "加载中...",
+    "noResults": "暂无结果",
+    "notFound": "未找到",
+    "reviews": "条评价",
+    "previous": "上一页",
+    "next": "下一页",
+    "manage": "管理",
+    "logout": "登出"
+  },
+  "home": {
+    "title": "发现中国道观",
+    "subtitle": "探索传承千年的道家文化，寻找心灵的寄托",
+    "searchPlaceholder": "搜索道观名称或地址...",
+    "allProvinces": "所有省份",
+    "allSects": "所有宗派",
+    "newest": "最新",
+    "highestRated": "评分最高",
+    "mostPopular": "最受欢迎",
+    "features": "平台特色",
+    "feature1Title": "完整的道观信息",
+    "feature1Desc": "汇集全国各地道观的详细信息，包括地址、联系方式、历史背景等",
+    "feature2Title": "真实的用户评价",
+    "feature2Desc": "来自真实访客的评价和建议，帮助您了解道观的真实情况",
+    "feature3Title": "丰富的道教知识",
+    "feature3Desc": "提供道教典籍、知识文章，传承和弘扬道家文化",
+    "feature4Title": "便捷的查询体验",
+    "feature4Desc": "支持多条件搜索和筛选，快速找到您感兴趣的道观"
+  },
+  "temples": {
+    "title": "道观列表",
+    "searchPlaceholder": "搜索道观...",
+    "allSects": "所有宗派"
+  },
+  "temple": {
+    "address": "地址",
+    "phone": "电话",
+    "email": "邮箱",
+    "website": "网站",
+    "description": "介绍",
+    "reviews": "评价",
+    "visitorName": "访客名称",
+    "rating": "评分",
+    "stars": "星",
+    "comment": "评论",
+    "submitReview": "提交评价",
+    "noReviews": "暂无评价"
+  },
+  "classics": {
+    "title": "道教典籍",
+    "searchPlaceholder": "搜索典籍...",
+    "allDynasties": "所有朝代",
+    "allCategories": "所有分类",
+    "description": "介绍",
+    "excerpt": "摘录",
+    "readMore": "阅读更多",
+    "selectClassic": "选择一部典籍查看详情"
+  },
+  "knowledge": {
+    "title": "知识库",
+    "searchPlaceholder": "搜索文章...",
+    "allCategories": "所有分类",
+    "selectArticle": "选择一篇文章查看详情"
+  },
+  "about": {
+    "title": "关于我们",
+    "aboutUs": "关于道观黄页",
+    "mission": "我们的使命",
+    "mission1Title": "传承道教文化",
+    "mission1Desc": "致力于传承和弘扬道教文化，让更多人了解道家思想",
+    "mission2Title": "提供便捷服务",
+    "mission2Desc": "为信众和文化爱好者提供便捷的道观查询和交流平台",
+    "mission3Title": "促进文化交流",
+    "mission3Desc": "促进不同地区道观之间的交流与合作，共同发展",
+    "support": "支持我们",
+    "supportDesc": "如果您喜欢我们的平台，欢迎通过以下方式支持我们的工作",
+    "contact": "联系我们",
+    "email": "邮箱",
+    "phone": "电话",
+    "address": "地址"
+  },
+  "login": {
+    "title": "管理员登录",
+    "username": "用户名",
+    "password": "密码",
+    "login": "登录",
+    "loginFailed": "登录失败，请检查用户名和密码",
+    "demoAccount": "演示账户"
+  },
+  "admin": {
+    "dashboard": "管理后台",
+    "temples": "道观数量",
+    "reviews": "评价数量",
+    "users": "用户数量",
+    "articles": "文章数量",
+    "management": "管理功能",
+    "templeManagement": "道观管理",
+    "manageTemples": "添加、编辑、删除道观信息",
+    "reviewManagement": "评价管理",
+    "manageReviews": "查看和管理用户评价",
+    "classicManagement": "典籍管理",
+    "manageClassics": "管理道教典籍内容",
+    "articleManagement": "文章管理",
+    "manageArticles": "管理知识库文章",
+    "userManagement": "用户管理",
+    "manageUsers": "管理系统用户和权限",
+    "seoManagement": "SEO管理",
+    "manageSEO": "管理页面SEO信息"
+  },
+  "footer": {
+    "about": "关于我们",
+    "aboutDesc": "道观黄页是一个致力于宣传和传承道家文化的综合性平台，汇集全国各地道观信息。",
+    "links": "快速链接",
+    "contact": "联系方式",
+    "email": "邮箱",
+    "phone": "电话",
+    "support": "支持我们",
+    "supportDesc": "如果您喜欢我们的平台，欢迎通过以下方式支持我们",
+    "wechat": "微信支付",
+    "alipay": "支付宝",
+    "copyright": "道观黄页 | 弘扬道教文化 | 传承中华文明"
+  }
+}

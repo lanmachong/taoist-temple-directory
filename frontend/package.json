@@ -1,0 +1,41 @@
+{
+  "name": "taoist-temple-directory-frontend",
+  "version": "1.0.0",
+  "description": "道观黄页系统前端",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.16.0",
+    "axios": "^1.5.0",
+    "i18next": "^23.5.0",
+    "react-i18next": "^13.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "dev": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --run",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.1"
+  }
+}

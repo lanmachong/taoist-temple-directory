@@ -24,8 +24,8 @@ function LoginPage() {
       });
 
       // 保存 token
-      localStorage.setItem('token', response.data.token);
-      localStorage.setItem('user', JSON.stringify(response.data.user));
+      localStorage.setItem('token', response.token);
+      localStorage.setItem('user', JSON.stringify(response.user));
 
       // 重定向到管理后台
       navigate('/admin');

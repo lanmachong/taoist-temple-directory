@@ -71,7 +71,7 @@ taoist-temple-directory/
 ## 数据库
 
 - 数据库名：`daoguan`
-- 主机：103.185.248.4
+- 主机：127.0.0.1
 - 已创建 8 个数据表
 - 初始管理员：admin / admin@taoist-temple.com
 
